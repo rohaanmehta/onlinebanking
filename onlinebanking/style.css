@@ -1,0 +1,329 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	outline: none;
+}
+body {
+  font-family: 'Roboto';
+  background-image: url('./images/bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.field90
+{
+}
+.headbox
+{	
+	width: 72%;
+	height: 50px;
+	background-color: black;
+	margin-left: 15%;
+	border: 6px solid #f2f2f2;
+	border-radius: 10px;
+	margin-top: -10px;
+	padding-top: 20px;
+}
+.headbox2
+{	
+	width: 72%;
+	height: 50px;
+	background-color: black;
+	margin-left: 15%;
+	border: 6px solid #f2f2f2;
+	border-radius: 10px;
+	margin-top: -10px;
+	padding-top: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+.btn
+{
+	color: white;
+	font-size: 20px;
+	margin-left: 100px;
+	text-decoration: none;
+	background-color: black;
+	margin-top: 300px;
+}
+.tittlebox
+{
+	width: 70%;
+	height: 50px;
+	margin-left: 15%;
+	/*background-color: grey;*/
+	padding-top: 40px;
+	color: #f2f2f2;
+}
+.layout
+{
+	width: 70%;
+	height: 400px;
+	margin-left: 15%;
+	background-color: #ffffff;
+	padding-top: 20px;
+	color: #193bb3;
+	padding-left: 50px;	
+	padding-bottom: 50px;
+	border-radius: 4px;
+
+}
+.rightside
+{
+	float: right;
+	margin-right: 120px;
+	padding-top: 30px;
+}
+.loginbtn
+{
+	width: 200px;
+	height: 30px;
+	background-color: #073678;
+	color: #f2f2f2;
+	border-radius: 4px;
+	border: none;
+	text-align: left;
+	padding-left: 20px;
+	margin-left: 130px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+/*//home^
+*/
+
+
+
+.field
+{
+	width: 250px;
+	height: 30px;
+	background-color: lightgrey;
+	color: #404040 !important;
+	padding-left: 20px;
+	border: none;
+	border-radius: 4px;
+	margin-top: 10px;
+	margin-left: 200px;
+}
+
+.field09
+{
+	width: 250px;
+	height: 30px;
+	background-color: lightgrey;
+	color: #404040;
+	padding-left: 20px;
+	border: none;
+	border-radius: 4px;
+	margin-top: 10px;
+	margin-left: 0px;
+}
+
+.field90
+{
+	width: 250px;
+	height: 30px;
+	background-color: lightgrey;
+	color: #404040;
+	padding-left: 20px;
+	border: none;
+	border-radius: 4px;
+	margin-top: 10px;
+	margin-left: 100px;
+}
+.updatebtn
+{
+	width: 150px;
+	height: 30px;
+	outline: none;
+	cursor: pointer;
+	margin-left: 260px;
+	background-color: #073678;
+	color: #f2f2f2;
+	border-radius: 4px;
+	border: none;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+
+/*//register^*/
+
+
+
+
+
+.loginbtn9
+{
+	width: 270px;
+	height: 30px;
+	margin-top: 10px;
+	cursor: pointer;
+	margin-left: 100px;
+	background-color: #073678;
+	color: #f2f2f2;
+	border-radius: 4px;
+	border: none;
+	text-align: center;
+	padding-left: 20px;
+	font-weight: bold;
+}
+
+/*//login^*/
+
+.layout2
+{
+	width: 70%;
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	margin-left: 15%;
+	background-color: #f2f2f2;
+	padding-top: 20px;
+	color: #193bb3;
+	padding-left: 50px;	
+	border-radius: 4px;
+}
+
+
+.tablebox
+{
+	display: flex;
+	width: 400px;
+	height: 360px;
+	background-color: grey;
+	flex-wrap: wrap;
+	margin-right: 5%;
+	float: right;
+	top :10px;
+   order: 1;
+
+
+}
+.key
+{
+	width: 40px;
+	height: 40px;
+	background-color: darkblue;
+	border: 1px solid black;
+	cursor: pointer;
+	color: #fff;
+
+}
+.updatebtn22
+{
+	width: 170px;
+	height: 30px;
+	background-color: #073678;
+	border: none;
+	text-align: center;
+	font-weight: bold;
+	outline: none;
+	font-weight: bold;
+	cursor: pointer;
+	border-radius: 4px;
+	text-align: center;
+	color: #f2f2f2 !important;
+	margin-left: 77%;
+
+}
+
+/*//graphic css ^  */
+
+
+.layout3
+{
+	width: 70%;
+	height: 400px;
+	margin-left: 15%;
+	background-color: #ffffff;
+	padding-top: 20px;
+	color: #193bb3;
+	padding-left: 50px;	
+	padding-bottom: 50px;
+	border-radius: 4px;
+}
+.field4
+{
+	width: 280px;
+	height: 30px;
+	background-color: lightgrey;
+	color: #404040;
+	padding-left: 20px;
+	border: none;
+	border-radius: 4px;
+	margin-top: 10px;
+}
+.loginbtn3
+{
+	width: 100px;
+	height: 30px;
+	margin-top: 10px;
+	cursor: pointer;
+	background-color: #073678;
+	border: none;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 4px;
+	text-align: center;
+	color: #f2f2f2;
+	margin-left: 100px;
+
+}
+.centerbox
+{
+	width: 100%;
+	height: 300px;
+	/*background-color: grey;*/
+	margin: auto;
+}
+
+/*//otp css ^*/
+
+
+
+
+.btnd
+{
+	color: white;
+	font-size: 18px;
+	margin-left: 50px;
+	text-decoration: none;
+	background-color: black;
+	/*margin-top: 300px;*/
+}
+
+/*//dashboard css */
+
+.updatebtnp
+{
+	width: 200px;
+	height: 30px;
+	outline: none;
+	cursor: pointer;
+	margin-left: 10px;
+	background-color: #073678;
+	color: #f2f2f2;
+	border-radius: 4px;
+	border: none;
+	text-align: center;
+	font-weight: bold;
+	margin-left: 25px;
+
+}
+#op, #np ,#cnp 
+{
+	position: absolute;
+	padding-top: 15px;
+	padding-left: 10px;
+	color: grey;
+}
+#max
+{
+	color: grey;
+	margin-left: 200px;
+	font-size: 12px;
+}
+
